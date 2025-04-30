@@ -1,3 +1,3 @@
-# code-Assignments
+# code-Math methods and Applied Math in Data Science
 
-Some inspirational homeworks and personal testing codes
+Homeworks and projects
